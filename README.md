@@ -1,2 +1,2 @@
 # accessPredictor
-Inference engine ton predict access eligibility
+Inference engine to predict access eligibility
